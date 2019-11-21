@@ -1,2 +1,2 @@
 # plagiarism-detector
-A Simple Java application to detect plagiarism between paragraphs
+A simple Java application to detect plagiarism among paragraphs
